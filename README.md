@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working with Python
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on any Python projects that need help
+- 🤔 I’m looking for help with any issues you find here
+- 📫 How to reach me: stephen@jshwisolutions.com
